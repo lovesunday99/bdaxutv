@@ -675,12 +675,7 @@ CETV-1,http://[2409:8087:6a01:1010::32]/cdnrrs.gz.chinamobile.com/PLTV/88888888/
 
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 
-
 
-
-内蒙古文体娱乐,https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8
-内蒙古新闻综合,https://epg.pw/stream/d7aa1346ac7eb6557177de5d526cbf5ca3f027ffa89d3f95472c1f6c5b8a5b2c.m3u8
-内蒙古经济生活,https://epg.pw/stream/15b68111ae34d993d7b93a271508a997b3410ab2a8e9b98543d831295c3e35bf.m3u8
 
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 
@@ -708,7 +703,7 @@ CETV-1,http://[2409:8087:6a01:1010::32]/cdnrrs.gz.chinamobile.com/PLTV/88888888/
 
 
 河北经济生活,http://cyz32.livehbindex.hbcatv.cn/live/50000020b7644f6784ae6c6eb82d7665.m3u8?bitrate=2300&pt=5
-河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1704463707&k=a9a7cfc24bdf0798f6421bd98bf0db61
+
 河北都市,http://cyz32.livehbindex.hbcatv.cn/live/50000020072541118d32f3491df3fd31.m3u8?bitrate=2300&pt=5
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北农民,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
@@ -771,7 +766,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 
 黑莓电影,https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8
 
-黑莓动画,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000002/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000002&livemode=1&stbId=3
+黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1756633734_-1487356125/ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
 都市剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
@@ -830,6 +825,16 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 
+🌐北京,#genre#
+
+
+北京文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
+北京纪实科教,http://qnap.yjnhome.com:4000/udp/239.3.1.115:8000
+北京影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
+北京财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
+北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
+北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+卡酷少儿,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
 
 
 
@@ -883,7 +888,20 @@ ICS外语,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226201/1.m3u8
 
 
 
-🌐皖贵,#genre#
+
+🌐内蒙青海,#genre#
+
+内蒙古文体娱乐,https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8
+内蒙古新闻综合,https://epg.pw/stream/d7aa1346ac7eb6557177de5d526cbf5ca3f027ffa89d3f95472c1f6c5b8a5b2c.m3u8
+内蒙古经济生活,https://epg.pw/stream/15b68111ae34d993d7b93a271508a997b3410ab2a8e9b98543d831295c3e35bf.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
+
+
+
+🌐安徽贵州,#genre#
 
 
 安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
@@ -979,7 +997,7 @@ QXTV,http://[2409:8087:6a01:1010::32]/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 
 
-🌐龙辽,#genre#
+🌐龙江辽宁,#genre#
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8
@@ -1012,6 +1030,16 @@ QXTV,http://[2409:8087:6a01:1010::32]/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 佳木斯新闻综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226451/index.m3u8
 
 
+辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
+辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
+辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+辽宁体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000072
+辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
+辽宁教育青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
+辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
+
+
 辽宁卫视,http://36.129.58.53:8008/paiptv/LNWS.m3u8
 辽宁北方,http://36.129.58.53:8008/paiptv/LNBF.m3u8
 辽宁影视剧, http://36.129.58.53:8008/paiptv/LNYSJ.m3u8
@@ -1023,20 +1051,12 @@ QXTV,http://[2409:8087:6a01:1010::32]/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 辽宁公共, http://36.129.58.53:8008/paiptv/LNQS.m3u8
 沈阳新闻,http://36.129.58.53:8008/paiptv/SYXW.m3u8
 
-辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000068
-辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
-辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
-辽宁体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000072
-辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
-辽宁教育青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
-辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
-辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?
-playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
 
 
 
 
-🏆晋鲁,#genre#
+
+🏆山西山东,#genre#
 
 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西经济与科技,http://live.cooltv.top/tv/cutv.php?id=sxjj
@@ -1072,7 +1092,7 @@ playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF
 
 
 
-🏆鄂苏,#genre#
+🏆湖北江苏,#genre#
 
 
 
@@ -1084,6 +1104,30 @@ playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF
 湖北卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTjwoxLREP8RbFWdRUM4faswoDIwMxbrlyyVy9x6ZDKnEdPk51m%2FYpbAXpN4hljdv%2Fuo7x98HZteEPqTZvSaqAE
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
+
+
+江苏新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8?icpid=3&RTS=1669268990&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8?icpid=3&RTS=1669269129&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+江苏综艺,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1669269209&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1669269073&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+江苏体育休闲,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1669268931&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+江苏教育,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8?icpid=3&RTS=1669269433&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+南京新闻综合高清,http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8?icpid=3&RTS=1663229212&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+南京信息高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8?icpid=3&RTS=1663229115&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京娱乐高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8?icpid=3&RTS=1663229140&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京少儿,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8?icpid=4&RTS=1663233805&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8?icpid=4&RTS=1663233995&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8?icpid=4&RTS=1663233949&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+南京科技,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8?icpid=4&RTS=1663233864&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+
+
+
+无锡新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8?icpid=3&RTS=1663233532&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+泰州1高清,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2988629058_378021149/ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8?icpid=3&RTS=1663018620&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+泰州2高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3054465711_-1323742279/ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8?icpid=3&RTS=1663018686&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+泰州3高清,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3111075443_-1954595974/ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8?icpid=3&RTS=1663018743&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+
+
 
 盐城1,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228435/1.m3u8
 扬州2,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228448/1.m3u8
